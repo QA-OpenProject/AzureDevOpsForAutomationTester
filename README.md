@@ -19,4 +19,36 @@
 
 ## CI/CD Concepts
 - Introduction to DevOps, Why DevOps?
-- M
+- More to CI/CD
+
+## Factors involved in Test Automation Design in CI/CD pipeline
+
+## Understanding Application and Testcases before Automation Testing
+
+## Factors involved in Test Automation Framework
+
+## Visual Studio
+
+## Selenium Code Reference
+
+## Selenium Web Driver
+
+## Working in a Team
+
+## Git
+
+## Azure DevOps
+
+## Adding new members into the project
+
+## Azure DevOps - Remote Repository
+
+## Creating the build and release pipeline
+
+## Other members contributing to Azure DevOps project
+
+## Setting Policies & Permissions
+
+## Setting up Scheduled Runs in the Azure DevOps Pipelines
+
+## Setting up Continuous Integration Server between GitHub and Azure DevOps
