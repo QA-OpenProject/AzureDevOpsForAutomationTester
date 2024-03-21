@@ -16,3 +16,6 @@
 - Git source management concepts
 - Automated Scheduled Test runs (Execution)
 - MS Test frameworks
+
+## CI/CD Concepts
+- Introduction to
