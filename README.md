@@ -18,4 +18,5 @@
 - MS Test frameworks
 
 ## CI/CD Concepts
-- Introduction to
+- Introduction to DevOps, Why DevOps?
+- M
